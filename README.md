@@ -13,6 +13,13 @@ The script leverages Selenium with Chrome WebDriver to perform automated web scr
 - Selenium
 - ChromeDriver
 
+- ## How to Use
+1. Clone the repository.
+2. Ensure you have Python installed on your system.
+3. Install the required libraries using `pip install selenium`.
+4. Download the appropriate version of ChromeDriver from [here](https://sites.google.com/chromium.org/driver/) and ensure it is in your system's PATH.
+5. Run the script by executing `python currency_exchange_scraper.py` in your terminal.
+
 ## Note
 - Uncomment the lines related to ChromeOptions in the script if you want to run the browser in headless mode.
 
